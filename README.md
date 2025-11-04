@@ -6,6 +6,7 @@ Open-source server for Clash Of Clans 5.2.4-6.56.1! (Fork of Solaree with alot o
 
 ## Installation
 Install CoC 5.2.4 client [from here](https://drive.google.com/file/d/1--5Ra7EZX3mpBDN1YMF_opoAHhVK8SnF/view?usp=sharing)
+-
 Install CoC 6.56.1 client [from here](https://clash-of-clans.en.uptodown.com/android/download/61155)
 
 
